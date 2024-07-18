@@ -20,11 +20,11 @@ In the retrieval and generation component, queries are embedded and checked agai
 
 ## Interface
 - *Before Adding PDF to Database*: The text is not based on our database and uses information from external sources.
-  ![Before Adding PDF to Database](figures/Before_adding_papers.png)
+  ![Before Adding PDF to Database](figures/Before.png)
 
 
 - *After Adding to Database*: The system extracts information from the papers in the database.
-  ![After Adding to Database](figures/After_adding_papers.png)
+  ![After Adding to Database](figures/After.png)
   
 ## Instructions
 
